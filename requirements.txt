@@ -1,0 +1,13 @@
+asyncio==3.4.3
+decorator==4.4.1
+Jinja2==2.10.3
+jsonpath-rw==1.4.0
+jsonpath-rw-ext==1.2.2
+lru-cache==0.2.3
+MarkupSafe==1.1.1
+pbr==5.4.4
+ply==3.11
+pprint==0.1
+psycopg2==2.8.4
+six==1.14.0
+SQLAlchemy==1.3.13
