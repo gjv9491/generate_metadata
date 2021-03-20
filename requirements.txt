@@ -1,6 +1,6 @@
 asyncio==3.4.3
 decorator==4.4.1
-Jinja2==2.10.3
+Jinja2==2.11.3
 jsonpath-rw==1.4.0
 jsonpath-rw-ext==1.2.2
 lru-cache==0.2.3
